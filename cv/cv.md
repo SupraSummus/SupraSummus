@@ -1,5 +1,7 @@
 <img src="cv.jpg" style="float: right; height: 7rem;">
 
+> I cringe, therefore I am
+
 Jan Rydzewski
 =============
 
